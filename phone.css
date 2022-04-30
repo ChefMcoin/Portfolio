@@ -8,8 +8,13 @@
 }
 
 
-.main{
-    flex: none;
+.main {
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid #fff; */
+    align-items: center;
+    position: absolute;
+    top: 30%;
 }
 /* About */
 #pic img{
