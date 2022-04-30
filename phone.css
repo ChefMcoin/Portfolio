@@ -8,8 +8,8 @@
 }
 
 
-#home{
-    display: none;
+.main{
+    flex: none;
 }
 /* About */
 #pic img{
